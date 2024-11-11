@@ -1,0 +1,1 @@
+PRETRAINED_MODEL = "t5-base"

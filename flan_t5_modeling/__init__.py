@@ -1,0 +1,1 @@
+PRETRAINED_MODEL = "google/flan-t5-xl"
